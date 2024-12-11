@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+h4{
+    margin-top: 0px;
+}
+h1{
+    margin-bottom: 0px;
+}
+.top_disney{
+    padding: 15px 0px 0px 0px;
+}
+.resources{
+    display: flex;
+}
+.fitness_resources{
+    padding-left: 200px;
+}
+.image_container{
+    position:relative;
+}
+.topleft{
+    position:absolute;
+    top: 30px;
+    left: 15px;
+    font-size: 18px;
+    color: hotpink;
+}
